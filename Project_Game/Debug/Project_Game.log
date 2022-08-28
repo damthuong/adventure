@@ -1,0 +1,16 @@
+﻿  Application.cpp
+D:\gameC++\Project_Game\Project_Game\Application.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameButton.cpp
+  GameStateBase.cpp
+  GameStateMachine.cpp
+  Hitbox.cpp
+  Main.cpp
+  Player.cpp
+  PSAttack.cpp
+  PSDeath.cpp
+  PSFall.cpp
+  PSJump.cpp
+  PSRun.cpp
+  ResourceManager.cpp
+  Generating Code...
+  Project_Game.vcxproj -> D:\gameC++\Project_Game\Debug\Project_Game.exe
